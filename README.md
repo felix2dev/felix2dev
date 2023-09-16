@@ -18,7 +18,7 @@ HTML & CSS
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/portfolio_in_work-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/portfolio_in_work-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://krudev.dev)
 
 [![github](https://img.shields.io/badge/github-aaa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krudevv)
 
