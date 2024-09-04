@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm currently learning backend development with everything related to Spring Framework.
+I'm currently learning backend development.
 
 ![Skills](https://skillicons.dev/icons?i=java,spring,html,css,idea,git,ps,pr,github)
 
