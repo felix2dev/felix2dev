@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-Currently learning backend development.
+15 y/o boy from Catalonia
 
 ![Skills](https://skillicons.dev/icons?i=java,spring,html,css,idea,git,ps,pr,github)
 
